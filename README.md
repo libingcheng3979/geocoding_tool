@@ -62,7 +62,7 @@
 
 | 版本 | 说明 | 推荐指数 |
 | :--- | :--- | :--- |
-| **[👉 点击下载高德地图版](https://github.com/libingcheng3979/geocoding_tool/releases)** | 支持高德 API，包含最新功能 (33MB) | ⭐⭐⭐⭐⭐ |
+| **[👉 点击下载高德地图版](https://github.com/libingcheng3979/geocoding_tool/releases)** | 支持高德 API，配额上限较高 | ⭐⭐⭐⭐⭐ |
 | **[👉 点击下载百度地图版](https://github.com/libingcheng3979/geocoding_tool/releases)** | 旧版本，支持百度 API | ⭐⭐⭐ |
 
 ---
